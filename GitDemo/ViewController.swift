@@ -12,6 +12,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("hfhfhfhfh")
+        
+        func fix(){
+            print("bud fixed")
+        }
     }
 
 
