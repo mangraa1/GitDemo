@@ -16,6 +16,11 @@ class ViewController: UIViewController {
         func fix(){
             print("bud fixed")
         }
+        
+        func newFix() -> Int {
+            var x : Int = 10
+            print("\(x)")
+        }
     }
 
 
