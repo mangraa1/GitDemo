@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         
         view.backgroundColor = .red
         
-        print("hi")
+        print("hello")
     }
     
     func fix (){
