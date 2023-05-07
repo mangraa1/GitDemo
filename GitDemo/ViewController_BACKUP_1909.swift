@@ -13,8 +13,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         view.backgroundColor = .red
+<<<<<<< HEAD
+
+=======
         
         print("hi")
+>>>>>>> bugFix#200
     }
     
     
