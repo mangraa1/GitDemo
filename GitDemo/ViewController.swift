@@ -11,18 +11,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("hfhfhfhfh")
         
-        func fix(){
-            print("bud fixed")
-        }
-        
-        func newFix() -> Int {
-            var x : Int = 10
-            print("\(x)")
-        }
+        view.backgroundColor = .red
     }
-
+    
+    
 
 }
 
