@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         print("hi")
     }
     
+    func fix (){
+        view.backgroundColor = .yellow
+    }
     
 
 }
