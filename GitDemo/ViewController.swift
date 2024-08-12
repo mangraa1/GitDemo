@@ -18,9 +18,11 @@ class ViewController: UIViewController {
     }
     
     func fix (){
-        view.backgroundColor = .yellow
+        view.backgroundColor = .red
     }
-    
+
+    func someFunction() {}
+                
 
 }
 
