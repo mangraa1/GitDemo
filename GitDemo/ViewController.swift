@@ -9,20 +9,24 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        
-        view.backgroundColor = .red
-        
-        print("hello")
-    }
-    
-    func fix (){
-        view.backgroundColor = .red
-    }
+  override func viewDidLoad() {
+    super.viewDidLoad()
 
-    func someFunction() {}
-                
+    view.backgroundColor = .red
+
+    print("hello")
+  }
+
+  func fix (){
+    view.backgroundColor = .red
+  }
+
+  func someFunction() {}
+
+
+  func superTestFunc() {
+    print("MEGA TEST")
+  }
 
 }
 
