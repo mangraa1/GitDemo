@@ -22,7 +22,12 @@ class ViewController: UIViewController {
     }
 
     func someFunction() {}
-                
+              
 
+  // MARK: Some Methods
+
+  func mainMethod() {
+    print("Main")
+  }
 }
 
